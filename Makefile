@@ -1,4 +1,4 @@
-.PHONY: all clean nairobi-crypto.pdf
+.PHONY: all clean nairobi-moringa.pdf
 
 all: nairobi-moringa.pdf
 
